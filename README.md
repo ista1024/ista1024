@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ista1024
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning java Spring & React.js
+- 🌱 I’m currently learning java Spring & React.js && AWS, docker, jenkins etc
 - 💞️ I’m looking to collaborate on ☁️
 - 📫 How to reach me 📧
 - [📃 Feel free to visit my :page_with_curl:](https://ista1024.github.io/)
