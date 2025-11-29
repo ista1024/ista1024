@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences: [https://fifth-stove-ea8.notion.site/YongTae-Kim-Resume-public-21626a7994934846a0f953f308bc0124](https://fifth-stove-ea8.notion.site/YongTae-Kim-Resume-public-21626a7994934846a0f953f308bc0124)
 
 - ⚡ Fun fact: **I'm positive person 😆, not for COVID 🥲**
-
+<!--
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ista1024?ext=heatmap)](https://leetcode.com/ista1024/)
+-->
 <!--- https://github.com/JacobLinCool/LeetCode-Stats-Card-->
 
 ### Resume & portfolio
